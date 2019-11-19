@@ -1,0 +1,42 @@
+{
+  "expo": {
+    "name": "myVybes Scanner",
+    "slug": "expo-firebase",
+    "privacy": "public",
+    "sdkVersion": "35.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+         ],
+    "version": "3.2.4",
+    "orientation": "portrait",
+    "icon": "./assets/mv_app_icon.png",
+    "splash": {
+      "image": "./assets/mv_logo.png"
+
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    
+    "android": {
+      "package": "com.tcktss.scnnn"
+      
+    },
+
+    
+
+
+
+
+    "ios": {
+
+      "supportsTablet": true
+     
+    }
+  }
+}
